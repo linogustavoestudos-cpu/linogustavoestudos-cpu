@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Gustavo Lino 👋
 
-<!--
-**linogustavoestudos-cpu/linogustavoestudos-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Tecnologia em Inteligência Artificial na FIAP**, em São Paulo.
+Estou construindo minha base em programação, dados e segurança, e buscando
+minha primeira oportunidade de estágio.
 
-Here are some ideas to get you started:
+## 🎯 Áreas de interesse
+- Inteligência Artificial e Machine Learning
+- Engenharia de Dados
+- Cibersegurança
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou aprendendo
+- Python
+- sql
+- C++
+- MachineLearning
+## 📂 Projetos em destaque
+- **aula_python_2sem**: exercícios e estudos de Python das aulas
+- **projeto_sompo_2sem**: projeto em C++ desenvolvido na faculdade
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/gustavo-lino-ia
